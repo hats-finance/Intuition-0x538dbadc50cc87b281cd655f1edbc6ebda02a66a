@@ -1,3 +1,11 @@
+# Audit Competition for Intuition
+This repository is for the audit competition for the Intuition.
+To participate, submit your findings only by using the on-chain submission process on https://app.hats.finance/vulnerability .
+## How to participate
+- follow the instructions on https://app.hats.finance/
+## Good luck!
+We look forward to seeing your findings.
+* * *
 # Intuition Protocol
 
 Intuition is an Ethereum-based attestation protocol harnessing the wisdom of the crowds to create an open knowledge and reputation graph. Our infrastructure makes it easy for applications and their users to capture, explore, and curate verifiable data. We’ve prioritized making developer integrations easy and have implemented incentive structures that prioritize ‘useful’ data and discourage spam.
