@@ -33,8 +33,7 @@ The main branches we use are:
 
 To get a basic understanding of the Intuition protocol, please check out the following:
 - [Official Website](https://intuition.systems)
-- [Official Documentation](https://docs.intuition.systems)
-- [Deep Dive into Our Smart Contracts](https://intuition.gitbook.io/intuition-contracts)
+- [Contract Documentation](https://intuition.gitbook.io/intuition-contracts)
 
 ### Known Nuances 
 
